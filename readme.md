@@ -1,6 +1,4 @@
-# gemini
-
-A set of client/server applications to help with word games such as Wordle&reg;, Connections&reg;, Scrabble&reg;, crossword puzzles, and jumbles.
+# [gemini](https://en.wikipedia.org/wiki/Castor_and_Pollux)
 
 ```
 > derrysmith/gemini
