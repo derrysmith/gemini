@@ -1,4 +1,4 @@
-# [gemini](https://en.wikipedia.org/wiki/Castor_and_Pollux)
+## [gemini](https://en.wikipedia.org/wiki/Castor_and_Pollux)
 
 ```
 > derrysmith/gemini
