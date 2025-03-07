@@ -2,14 +2,7 @@
 
 ```
 > derrysmith/gemini
-	> client
-		> gemini-app (mobile app)
-		> gemini-cli (command line utility)
-		> gemini-ext (browser extensions)
-		> gemini-lib (npm package)
-		> gemini-web (web application)
-		- package.json
-		- yarn.lock
-	> server
-		> gemini-api
+	> gemini-api
+	> gemini-app
+	> gemini-web
 ```
