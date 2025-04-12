@@ -1,0 +1,21 @@
+services:
+  #gemini-api:
+  #gemini-web:
+  gemini-sql:
+    image: oskardudycz/postgres-plv8:12-2
+    env_file:
+      - docker-compose.env
+    ports:
+      - "54320:5432"
+    networks:
+      - server
+    volumes:
+      - sqlvolume:/var/lib/postgresql/data
+
+networks:
+  client:
+  server:
+
+volumes:
+  sqlvolume:
+    driver: local
